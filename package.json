@@ -1,0 +1,22 @@
+{
+  "name": "return-desire-type",
+  "version": "1.0.0",
+  "description": "return type in meaning",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frosty1222/package.git"
+  },
+  "keywords": [
+    "return-desire-type"
+  ],
+  "author": "bronzedev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frosty1222/package/issues"
+  },
+  "homepage": "https://github.com/frosty1222/package#readme"
+}
